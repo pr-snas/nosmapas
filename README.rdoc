@@ -5,18 +5,18 @@ Possui uma interface simples e funcional que permite criar, importar, exportar, 
 e compartilhar mapas utilizando o google maps.
 
 == Requisitos
-Ruby 1.9.x http://www.ruby-lang.org/ e Rails 3.2.2 http://rubyonrails.org/
+Ruby 1.9.x[http://www.ruby-lang.org/] e Rails 3.2.2[http://rubyonrails.org/]
 
 == Como utilizar
 No terminal ou prompt de comando execute as seguintes etapas:
 
 1. Clone o repositório git:
-       <tt>git clone git://github.com/marcosmlopes/nosmapas.git</tt>
+       git clone git://github.com/marcosmlopes/nosmapas.git
 
 2. Mude para o diretório <tt>nosmapas</tt> e inicie o servidor web:
-       <tt>cd nosmapas; rails s</tt>
+       cd nosmapas; rails s
 
-3. Visite http://localhost:3000/
+3. Visite http://localhost:3000
 
 == Contribuindo
 Sinta-se livre para contribuir. Qualquer contribuição é bem vinda.
