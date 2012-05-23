@@ -1,6 +1,6 @@
 == NosMapas
 De nós + mapas é um projeto web que tem como objetivo principal: permitir a criação de
-mapas que visualizem dados geo referênciais em formato aberto.
+mapas que visualizem dados em formato aberto.
 Possui uma interface simples e funcional que permite criar, importar, exportar, incorporar
 e compartilhar mapas utilizando o google maps.
 
