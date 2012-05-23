@@ -1,0 +1,26 @@
+== NosMapas
+De nós + mapas é um projeto web que tem como objetivo principal: permitir a criação de
+mapas que visualizem dados geo referênciais em formato aberto.
+Possui uma interface simples e funcional que permite criar, importar, exportar, incorporar
+e compartilhar mapas utilizando o google maps.
+
+== Requisitos
+Ruby 1.9.x http://www.ruby-lang.org/ e Rails 3.2.2 http://rubyonrails.org/
+
+== Como utilizar
+No terminal ou prompt de comando execute as seguintes etapas:
+
+1. Clone o repositório git:
+       <tt>git clone git://github.com/marcosmlopes/nosmapas.git</tt>
+
+2. Mude para o diretório <tt>nosmapas</tt> e inicie o servidor web:
+       <tt>cd nosmapas; rails s</tt>
+
+3. Visite http://localhost:3000/
+
+== Contribuindo
+Sinta-se livre para contribuir. Qualquer contribuição é bem vinda.
+
+== Licença
+Este software utiliza a licença GNU Affero General Public License. Veja o arquivo
+COPYING para maiores detalhes.
